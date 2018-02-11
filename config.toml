@@ -5,3 +5,5 @@ theme = "hippopotamus"
 
 [params]
 sitename = "thatlittlegit's blog"
+[params.links]
+Home = "/"
