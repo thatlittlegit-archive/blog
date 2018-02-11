@@ -7,7 +7,8 @@ ls
 hugo
 find -type f | grep -v './.git' | grep -v './public' | xargs rm
 mv public/* .
-mv public/posts/* .
+mkdir posts
+mv public/posts/* posts
 rm .gitmodules .gitattributes
 git add -A
 git commit -m "Update site [ci skip]"
