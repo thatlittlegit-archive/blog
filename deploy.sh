@@ -8,7 +8,7 @@ hugo
 find -type f | grep -v './.git' | grep -v './public' | xargs rm
 mv public/* .
 mv public/posts/* .
-rm .gitmodules
+rm .gitmodules .gitattributes
 git add -A
 git commit -m "Update site [ci skip]"
 git push origin gh-pages
