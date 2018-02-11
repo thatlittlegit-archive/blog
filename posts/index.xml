@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on thatlittlegit&#39;s blog</title>
+    <link>https://thatlittlegit.tk/blog/posts/index.xml</link>
+    <description>Recent content in Posts on thatlittlegit&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 21 Feb 2018 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://thatlittlegit.tk/blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Nice to see you too, Cleverbot!</title>
+      <link>https://thatlittlegit.tk/blog/posts/cleverbot/</link>
+      <pubDate>Wed, 21 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://thatlittlegit.tk/blog/posts/cleverbot/</guid>
+      <description>&lt;p&gt;Hey!&lt;/p&gt;
+
+&lt;p&gt;Recently had an interesting conversation with Cleverbot. I
+said &amp;lsquo;ok&amp;rsquo; repeatedly (so much that the page told me to say
+something new, so I changed punctuation, thus the change from
+&amp;lsquo;Ok.&amp;rsquo; to &amp;lsquo;Ok!&amp;rsquo;), and it started talking about Minecraft and
+Call Me Maybe. The script is below, &lt;a href=&#34;https://pastebin.com/raw/rvQtvDrp&#34;&gt;and also in a Pastebin&lt;/a&gt;.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;User: Hello.
+Cleverbot: Hi, how are you doing?
+User: Ok.
+Cleverbot: That&#39;s good.
+User: Ok.
+Cleverbot: Do you know what Minecraft is?
+User: Ok.
+Cleverbot: Let&#39;s be random.
+User: Ok.
+Cleverbot: Necessary Pachyderm.
+User: Ok.
+Cleverbot: What are your political views?
+User: Ok.
+Cleverbot: What?
+User: Ok!
+Cleverbot: Stop saying ok.
+User: Ok.
+Cleverbot: Please.
+User: Ok.
+Cleverbot: Tell me.
+User: Ok.
+Cleverbot: Go on then.
+User: Ok.
+Cleverbot: I&#39;m waiting.
+User: Ok!
+Cleverbot: You, sir, are stalling.
+User: Ok!
+Cleverbot: I would like to request that you play Call Me Maybe.
+User: Ok!
+Cleverbot: What is your gender?
+User: Ok!
+Cleverbot: Hello Ok. My name is Julian.
+User: Ok!
+Cleverbot: And what&#39;s yours?
+User: Ok!
+Cleverbot: Titans Go!
+User: Ok...
+Cleverbot: Do you play Pokemon?
+User: Ok...
+Cleverbot: Love me.
+User: Ummmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm.
+Cleverbot: *kiss*.
+User: ...
+Cleverbot: Ok però ora smettiamola di parlare inglese.
+[Google Translate] Ok but now lets stop talking English
+User: ...
+Cleverbot: Are you a demon or an angel?
+User: ...
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Cleverbot, I think you need to learn more.
+```&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hello, World!</title>
+      <link>https://thatlittlegit.tk/blog/posts/hello/</link>
+      <pubDate>Sun, 11 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://thatlittlegit.tk/blog/posts/hello/</guid>
+      <description>&lt;p&gt;Hello, World! I made this Hugo site so I could, like, post stuff. Also for the
+RSS feed. I probably won&amp;rsquo;t update this often, but you never know!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
