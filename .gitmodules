@@ -1,0 +1,3 @@
+[submodule "themes/hippopotamus"]
+	path = themes/hippopotamus
+	url = https://github.com/thatlittlegit/hugo-theme-hippopotamus.git

@@ -1,0 +1,4 @@
+baseURL = "https://thatlittlegit.tk/blog/"
+languageCode = "en-us"
+title = "thatlittlegit's blog"
+theme = "hippopotamus"
